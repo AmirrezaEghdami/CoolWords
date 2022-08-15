@@ -8,8 +8,8 @@ int main()
 
 	string firstS;
 	string secondS;
-    cin >> firstS;
-    cin >> secondS;
+	cin >> firstS;
+	cin >> secondS;
 
 	if (firstS[0] == secondS[secondS.length()-1])
 	{
